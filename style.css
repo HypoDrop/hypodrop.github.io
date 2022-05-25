@@ -255,3 +255,10 @@ ul{
 ul li{
   display: inline;
 }
+
+@media screen and (max-width: 600px) {
+  image {
+    visibility: hidden;
+    display: none;
+  }
+}
