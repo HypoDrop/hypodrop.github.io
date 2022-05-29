@@ -257,8 +257,16 @@ ul li{
 }
 
 @media screen and (max-width: 600px) {
-  image {
-    visibility: hidden;
-    display: none;
+  .logoHypo {
+    display: none !important;
+  }
+}
+.logoHypoTop {
+  display: none !important;
+}
+@media screen and (max-width: 600px) {
+  .logoHypoTop {
+    display:block !important;
+    float: left;
   }
 }
