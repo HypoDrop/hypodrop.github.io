@@ -33,7 +33,7 @@ body {
   padding: 2rem;
   font-family: var(--font-family);
   color: var(--dark-color);
-  background: var(--bg-gradient);
+  background: #111;
 }
 
 .orb-canvas {
