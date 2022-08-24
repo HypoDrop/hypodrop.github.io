@@ -33,7 +33,7 @@ body {
   padding: 2rem;
   font-family: var(--font-family);
   color: var(--dark-color);
-  background: #111;
+  background: #222;
 }
 
 .orb-canvas {
@@ -240,7 +240,7 @@ a {
   color: #ea4c89;
   border-color: #ea4c89;
 }
-#card__buttons a[data-social=Telegram].active, #card__buttons a[data-social=vimeo]:hover {
+#card__buttons a[data-social=Quest3].active, #card__buttons a[data-social=Quest3]:hover {
   color: #1ab7ea;
   border-color: #1ab7ea;
 }
